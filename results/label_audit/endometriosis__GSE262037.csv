@@ -1,0 +1,4 @@
+text,label,count
+ems-# | endometrium | disease state: endometriosis,case,3
+normal-# | endometrium | disease state: normal,control,3
+tubal_infertility-# | endometrium | disease state: tubul disease infertility,DROP,3

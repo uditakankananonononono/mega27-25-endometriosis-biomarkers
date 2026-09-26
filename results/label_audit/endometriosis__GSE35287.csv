@@ -1,0 +1,15 @@
+text,label,count
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, # hours of e#p# | disease: endometriosis",case,8
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, # hours of e# | disease: endometriosis",case,8
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, # hours of vehicle control | disease: endometriosis",DROP,8
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, # hours of e# | disease: no endometriosis",control,8
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, # hours of vehicle control | disease: no endometriosis",control,8
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, # hours of e#p# | disease: no endometriosis",control,8
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, # days of vehicle control | disease: endometriosis",DROP,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, # days of e#p# | disease: endometriosis",case,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, # days of e# | disease: endometriosis",case,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, endometriosis, at t=# | disease: endometriosis",case,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, # days of vehicle control | disease: no endometriosis",control,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, # days of e#p# | disease: no endometriosis",control,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, # days of e# | disease: no endometriosis",control,4
+"endometrial tissue-isolated human endometrial stromal fibroblast (hesf) # | hesf, no endometriosis, at t=# | disease: no endometriosis",control,4

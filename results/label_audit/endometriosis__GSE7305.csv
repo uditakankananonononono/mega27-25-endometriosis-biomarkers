@@ -1,0 +1,5 @@
+text,label,count
+endometrium-normal # | female - caucasian - n-#-g,control,5
+endometrium-normal # | female - caucasian - n-#-m,control,5
+endometrium/ovary-disease # | female - caucasian - e-#-g,DROP,5
+endometrium/ovary-disease # | female - caucasian - e-#-m,DROP,5

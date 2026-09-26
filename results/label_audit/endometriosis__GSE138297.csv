@@ -1,0 +1,5 @@
+text,label,count
+"sigmoid biopsy, allogenic fmt, subject #, # weeks after intervention | sigmoid biopsy, uncleansed colon | subjectid: # | experimental condition: allogenic fmt",DROP,16
+"sigmoid biopsy, autologous fmt, subject #, # weeks after intervention | sigmoid biopsy, uncleansed colon | subjectid: # | experimental condition: autologous fmt",DROP,14
+"sigmoid biopsy, allogenic fmt, subject #, baseline | sigmoid biopsy, uncleansed colon | subjectid: # | experimental condition: allogenic fmt",DROP,8
+"sigmoid biopsy, autologous fmt, subject #, baseline | sigmoid biopsy, uncleansed colon | subjectid: # | experimental condition: autologous fmt",DROP,7

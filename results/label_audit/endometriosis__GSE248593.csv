@@ -1,0 +1,3 @@
+text,label,count
+normal endometrial tissue-# cy# | normal endometrial tissue | disease state: normal tissue,control,6
+ovarian-endometriosis-# cy# | ovarian-endometriosis | disease state: ovarian endometriosis,case,6

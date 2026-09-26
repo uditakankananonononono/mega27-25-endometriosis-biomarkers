@@ -1,0 +1,5 @@
+text,label,count
+"ecsc_#aza-treated_rep# | ecsc, #aza-treated, replicate #",DROP,4
+"ecsc_untreated_rep# | ecsc, untreated, replicate #",DROP,4
+"ecsc_vpa and #aza-treated_rep# | ecsc, vpa and #aza-treated, replicate #",DROP,4
+"ecsc_vpa-treated_rep# | ecsc, vpa-treated, replicate #",DROP,4

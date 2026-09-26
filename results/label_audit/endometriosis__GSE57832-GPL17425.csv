@@ -1,0 +1,3 @@
+text,label,count
+ctrl_replicate_# | healthy subjects | disease state: healthy,control,3
+endo_replicate_# | endometriosis-affected women | disease state: endometriosis,case,3

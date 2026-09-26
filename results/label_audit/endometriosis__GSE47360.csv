@@ -1,0 +1,4 @@
+text,label,count
+choesc# expression | isolated endometrial stromal cells from chocolate cyst | disease status: endometriosis,case,3
+euesca# expression | isolated endometrial stromal cells without endometriosis | disease status: non-endometriosis,control,3
+euescb# expression | isolated endometrial stromal cells with endometriosis | disease status: endometriosis,case,3

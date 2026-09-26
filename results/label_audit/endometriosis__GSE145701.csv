@@ -1,0 +1,15 @@
+text,label,count
+genomic rna from endo i esf sample # treated with p# | endo i-# p# | disease state: endometriosis stage i,DROP,4
+"genomic rna from endo i esf sample #, treated with e# | endo i-# e# | disease state: endometriosis stage i",DROP,4
+"genomic rna from endo i esf sample #, treated with e#+p# | endo i-# e#+p# | disease state: endometriosis stage i",DROP,4
+"genomic rna from endo i esf sample #, treated with vehicle | endo i-# veh | disease state: endometriosis stage i",DROP,4
+genomic rna from endo iv esf sample # treated with p# | endo iv-# p# | disease state: endometriosis stage iv,DROP,4
+"genomic rna from endo iv esf sample #, treated with e#+p# | endo iv-# e#+p# | disease state: endometriosis stage iv",DROP,4
+"genomic rna from nup esf sample #, treated with vehicle | nup#-veh | disease state: normal",DROP,4
+"genomic rna from endo iv esf sample #, treated with vehicle | endo iv-# veh | disease state: endometriosis stage iv",DROP,4
+"genomic rna from nup esf sample #, treated with e#+p# | nup#-e#+p# | disease state: normal",DROP,4
+"genomic rna from nup esf sample #, treated with e# | nup#-e# | disease state: normal",DROP,4
+"genomic rna from endo iv esf sample #, treated with e# | endo iv-# e# | disease state: endometriosis stage iv",DROP,3
+genomic rna from nup esf sample # treated with p# | nup#-p# | disease state: normal,DROP,2
+"genomic rna from nup esf sample #, treated with p# | nup#-p# | disease state: normal",DROP,2
+"genomic rna from endo iv esf sample #, treated with e# | endo iv-# e | disease state: endometriosis stage iv",DROP,1

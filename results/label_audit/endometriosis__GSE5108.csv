@@ -1,0 +1,5 @@
+text,label,count
+endometrium # wg | endometrium,DROP,10
+endometriosis # wg | endometriosis,case,9
+endometriosis #b wg | endometriosis,case,2
+endometrium #b wg | endometrium,DROP,1

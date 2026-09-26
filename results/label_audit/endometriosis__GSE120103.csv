@@ -1,0 +1,5 @@
+text,label,count
+"disease free endometrium of fertile women, replicate # | human endometrium, fertile secretory without endometriosis (group #a) | sample group: disease free endometrium of fertile women",control,9
+"disease free endometrium of infertile women, replicate # | human endometrium, infertile secretory without endometriosis (group #b) | sample group: disease free endometrium of infertile women",control,9
+"endometrium  from stage iv ovarian endometriosis of fertile women, replicate # | human endometrium, fertile secretory with stage iv ovarian endometriosis (group #a) | sample group: endometrium  from stage iv ovarian endometriosis of fertile women",case,9
+"endometrium  from stage iv ovarian endometriosis of infertile women, replicate # | human endometrium, fertile secretory with stage iv ovarian endometriosis (group #b) | sample group: endometrium  from stage iv ovarian endometriosis of infertile women",case,9

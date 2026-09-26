@@ -1,0 +1,7 @@
+text,label,count
+"stroma_endo_camp_rep# | stromal culture, endometriosis, camp | disease status: endometriosis | treatment group: #-br-camp",DROP,5
+"stroma_noendo_control_rep# | stromal culture, no endometriosis, control | disease status: no endometriosis | treatment group: control",DROP,5
+"stroma_noendo_camp_rep# | stromal culture, no endometriosis, camp | disease status: no endometriosis | treatment group: #-br-camp",DROP,4
+"stroma_endo_control_rep# | stromal culture, endometriosis, control | disease status: endometriosis | treatment group: control",DROP,4
+"stroma_endo_control | stromal culture, endometriosis, control | disease status: endometriosis | treatment group: control",DROP,1
+"stroma_noendo_camp_rep# | stromal culture, no endometriosis, control | disease status: no endometriosis | treatment group: #-br-camp",DROP,1

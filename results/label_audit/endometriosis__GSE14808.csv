@@ -1,0 +1,10 @@
+text,label,count
+endometrial cells control # | cultured human endometrial cells (t-hesc) from atcc,DROP,3
+endometrial cells estradiol # | cultured human endometrial cells (t-hesc) from atcc,DROP,3
+endometrial cells estradiol+monocyte-conditioned medium # | cultured human endometrial cells (t-hesc) from atcc,DROP,3
+endometrial cells estradiol+progesterone # | cultured human endometrial cells (t-hesc) from atcc,DROP,3
+endometrial cells estradiol+progesterone+monocyte-conditioned medium # | cultured human endometrial cells (t-hesc) from atcc,DROP,3
+endometrial cells vehicle+monocyte-conditioned medium # | cultured human endometrial cells (t-hesc) from atcc,DROP,3
+monocytes control # | cultured monocyte cell line (u-#) from atcc,DROP,3
+monocytes + thesc conditioned medium # | cultured monocyte cell line (u-#) from atcc,DROP,2
+monocytes +thesc conditioned medium # | cultured monocyte cell line (u-#) from atcc,DROP,1

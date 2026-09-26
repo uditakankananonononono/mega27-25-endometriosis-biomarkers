@@ -1,0 +1,14 @@
+text,label,count
+sample # pe | endometrium | disease stage: #,DROP,39
+sample # pp | peritoneum | disease stage: #,DROP,9
+sample # diein | intestine | disease stage: #,DROP,7
+sample # pe replicate | endometrium | disease stage: #,DROP,3
+sample # diein replicate | intestine | disease stage: #,DROP,2
+sample # pelb replicate | peritoneal | disease stage: #,DROP,2
+sample # pelb | peritoneal | disease stage: #,DROP,2
+sample # pp replicate | peritoneum | disease stage: #,DROP,2
+sample # sul | sacrouterine ligament | disease stage: #,DROP,2
+sample # pelw | peritoneal | disease stage: #,DROP,1
+sample # pelr | peritoneal | disease stage: #,DROP,1
+sample # pelr replicate | peritoneal | disease stage: #,DROP,1
+sample # sul replicate | sacrouterine ligament | disease stage: #,DROP,1

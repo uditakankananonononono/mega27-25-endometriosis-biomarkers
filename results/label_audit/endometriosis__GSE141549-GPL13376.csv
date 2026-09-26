@@ -1,0 +1,20 @@
+text,label,count
+sample # pe | endometrium | disease stage: #,DROP,61
+sample # ce | endometrium | disease stage: healthy,control,37
+sample # diein | intestine | disease stage: #,DROP,28
+sample # oma | ovary | disease stage: #,DROP,27
+sample # pp | peritoneum | disease stage: #,DROP,26
+sample # pelb | peritoneal | disease stage: #,DROP,25
+sample # pelr | peritoneal | disease stage: #,DROP,25
+sample # sul | sacrouterine ligament | disease stage: #,DROP,24
+sample # cp | peritoneum | disease stage: healthy,control,24
+sample # rev | rectovaginal septum | disease stage: #,DROP,22
+sample # pelw | peritoneal | disease stage: #,DROP,21
+sample # ce replicate | endometrium | disease stage: healthy,control,5
+sample # dieb | bladder | disease stage: #,DROP,3
+sample # pp | peritoneum,DROP,2
+sample # diein | intestine,DROP,2
+sample # ce | endometrium | disease stage: #,DROP,1
+sample # oma | ovary,DROP,1
+sample # pe | endometrium,DROP,1
+sample # pelr | peritoneal,DROP,1

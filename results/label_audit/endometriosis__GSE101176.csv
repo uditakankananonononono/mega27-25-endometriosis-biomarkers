@@ -1,0 +1,5 @@
+text,label,count
+peritoneal fluid-control-no endometriosis-rep# | t-hesc cells treated with peritoneal fluid from human subjects without endometriosis | disease severity: no disease,DROP,3
+peritoneal fluid-minimal endometriosis-rep# | t-hesc cells treated with peritoneal fluid from human subjects with minimal endometriosis | disease severity: minimal endometriosis,DROP,3
+peritoneal fluid-moderate endometriosis-rep# | t-hesc cells treated with peritoneal fluid from human subjects with moderate endometriosis | disease severity: moderate endometriosis,DROP,3
+peritoneal fluid-severe endometriosis-rep# | t-hesc cells treated with peritoneal fluid from human subjects with severe endometriosis | disease severity: severe endometriosis,DROP,3

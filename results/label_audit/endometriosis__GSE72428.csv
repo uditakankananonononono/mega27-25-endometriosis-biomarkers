@@ -1,0 +1,5 @@
+text,label,count
+# m. endometriosis_# | induced endometriosis at # months,case,11
+control_# | disease free control,control,4
+# m. endometriosis_# | induced endometriosis at # month,case,2
+spontaneous_# | spontaneous endometriosis,case,2

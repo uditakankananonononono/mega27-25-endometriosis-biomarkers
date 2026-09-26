@@ -1,0 +1,13 @@
+text,label,count
+"endometrialstromalcell_choco_eutopic_#-h#o# | eutopic endometrial stromal cell from patients with ovarian endometrioma, treated with h#o# | diagnosis: endometriosis",DROP,3
+"endometrialstromalcell_choco_eutopic_#-ctrl | eutopic endometrial stromal cell from patients with ovarian endometrioma, untreated with h#o# | diagnosis: endometriosis",DROP,3
+"endometrialstromalcell_choco_ectopic_#-ctrl | ectopic endometrial stromal cell from patients with ovarian endometrioma, untreated with h#o# | diagnosis: endometriosis",DROP,2
+"endometrialstromalcell_choco_ectopic_#-h#o# | ectopic endometrial stromal cell from patients with ovarian endometrioma, treated with h#o# | diagnosis: endometriosis",DROP,2
+"endometrialstromalcell_choco_ectopic_#-h#o# | ectopic endometrial stromal cell from patients with ovarian endometrioma, treated with h#o# | diagnosis: endometriosis and leiomyoma",DROP,1
+"endometrialstromalcell_choco_ectopic_#-ctrl | ectopic endometrial stromal cell from patients with ovarian endometrioma, untreated with h#o# | diagnosis: endometriosis and leiomyoma",DROP,1
+"endometrialstromalcell_normal_eutopic_#-ctrl | eutopic endometrial stromal cell from patients without endometriosis, untreated with h#o# | diagnosis: cervical cancer",control,1
+"endometrialstromalcell_normal_eutopic_#-ctrl | eutopic endometrial stromal cell from patients without endometriosis, untreated with h#o# | diagnosis: leiomyoma",control,1
+"endometrialstromalcell_normal_eutopic_#-ctrl | eutopic endometrial stromal cell from patients without endometriosis, untreated with h#o# | diagnosis: mature cystic teratoma and leiomyoma",control,1
+"endometrialstromalcell_normal_eutopic_#-h#o# | eutopic endometrial stromal cell from patients without endometriosis, treated with h#o# | diagnosis: cervical cancer",DROP,1
+"endometrialstromalcell_normal_eutopic_#-h#o# | eutopic endometrial stromal cell from patients without endometriosis, treated with h#o# | diagnosis: leiomyoma",DROP,1
+"endometrialstromalcell_normal_eutopic_#-h#o# | eutopic endometrial stromal cell from patients without endometriosis, treated with h#o# | diagnosis: mature cystic teratoma and leiomyoma",DROP,1

@@ -1,0 +1,5 @@
+text,label,count
+t-hesc cells_il#_rep # | human endometrial stromal cell line (t-hesc) (atcc crl-#),DROP,3
+t-hesc cells_tnf+il#_rep # | human endometrial stromal cell line (t-hesc) (atcc crl-#),DROP,3
+t-hesc cells_tnf_rep # | human endometrial stromal cell line (t-hesc) (atcc crl-#),DROP,3
+t-hesc cells_vehicle control_rep # | human endometrial stromal cell line (t-hesc) (atcc crl-#),DROP,3

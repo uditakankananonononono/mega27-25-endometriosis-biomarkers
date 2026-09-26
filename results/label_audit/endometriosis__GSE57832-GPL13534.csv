@@ -1,0 +1,3 @@
+text,label,count
+dna_methylation_ctrl_replicate_# | healthy subjects,control,3
+dna_methylation_endo_replicate_# | endometriosis-affected women,case,3

@@ -1,0 +1,4 @@
+text,label,count
+"patient no.#_ectopic endometrium_rep# | patient no.#, ectopic endometrium, replicate #",case,4
+"patient no.#_eutopic endometrium_rep# | patient no.#, eutopic endometrium, replicate #",DROP,4
+"patient no.#_lesion adjacent tissue_rep# | patient no.#, lesion adjacent tissue, replicate #",case,4

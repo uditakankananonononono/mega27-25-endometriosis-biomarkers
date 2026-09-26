@@ -1,0 +1,4 @@
+text,label,count
+uc-# endometrial biopsy-normal control | endometrium | disease: no adenomyosis,control,5
+uc-# endometrial biopsy-adenomyosis | endometrium | disease: adenomyosis,DROP,2
+# endometrial biopsy-adenomyosis | endometrium | disease: adenomyosis,DROP,1

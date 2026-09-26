@@ -1,0 +1,4 @@
+text,label,count
+endometrial_tissue_fertile_control_# | endometrial_tissue_fertile_control | subject status/group: control,control,24
+endometrial_tissue_fertile_rpl_# | endometrial_tissue_fertile_rpl | subject status/group: patient with rpl,DROP,24
+endometrial_tissue_fertile_uif_# | endometrial_tissue_fertile_uif | subject status/group: patient with uif,DROP,24

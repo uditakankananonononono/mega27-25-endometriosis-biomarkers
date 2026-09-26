@@ -1,0 +1,7 @@
+text,label,count
+"#_#e_control | eutopic endometrial stromal cell,#rdg, #d culture",DROP,4
+"#_#e_dienogest | eutopic endometrial stromal cell,#rdg,#d floating gel culture.",DROP,4
+"#_#c_gel | ovarian endometriotic cysts stromal cell,#rdg,#d floating culture.",DROP,3
+"#_#c_# | ovarian endometriotic cysts stromal cell,#rdg,#d culture",DROP,3
+"#_#c | ovarian endometriotic cysts stromal cell,#rdg,#d culture",DROP,1
+"#_#c_gel_# | ovarian endometriotic cysts stromal cell,#rdg,#d floating culture.",DROP,1

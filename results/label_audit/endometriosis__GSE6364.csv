@@ -1,0 +1,14 @@
+text,label,count
+ese_d_# | uterus - early secretory endometrium from patient with endometriosis,case,5
+mse_d_# | uterus - mid secretory endometrium from patient with  endometriosis,case,5
+pe_d_# | uterus - proliferative endometrium from patient with  endometriosis,case,5
+mse_n_# | uterus - mid secretory endometrium from normal patient,control,4
+ese_n_# | uterus - early secretory endometrium from normal patient,control,3
+pe_n_m# | uterus - proliferative endometrium from normal patient,control,3
+mse_n_m# | uterus - mid secretory endometrium from normal patient,control,3
+pe_n_# | uterus - proliferative endometrium from normal patient,control,2
+mse_d_#a | uterus - mid secretory endometrium from patient with  endometriosis,case,2
+mse_d_g#a | uterus - mid secretory endometrium from patient with  endometriosis,case,2
+ese_d_#a | uterus - early secretory endometrium from patient with endometriosis,case,1
+mse_n_g#a | uterus - mid secretory endometrium from normal patient,control,1
+pe_d_#a | uterus - proliferative endometrium from patient with  endometriosis,case,1

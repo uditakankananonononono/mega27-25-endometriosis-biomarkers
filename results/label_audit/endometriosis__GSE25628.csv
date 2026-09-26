@@ -1,0 +1,23 @@
+text,label,count
+ectopic endometrium_g | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_h | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_i | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_l | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_m | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_n | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_o | endometrium | disease state: pathological (ectopic),case,1
+ectopic endometrium_p | endometrium | disease state: pathological (ectopic),case,1
+eutopic endometrium_q | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_r | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_s | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_t | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_u | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_v | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_y | endometrium | disease state: normal (eutopic),control,1
+eutopic endometrium_z | endometrium | disease state: normal (eutopic),control,1
+normal endometrium_a | endometrium | disease state: normal (control),control,1
+normal endometrium_b | endometrium | disease state: normal (control),control,1
+normal endometrium_c | endometrium | disease state: normal (control),control,1
+normal endometrium_d | endometrium | disease state: normal (control),control,1
+normal endometrium_e | endometrium | disease state: normal (control),control,1
+normal endometrium_f | endometrium | disease state: normal (control),control,1

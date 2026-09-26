@@ -1,0 +1,4 @@
+text,label,count
+"control endometrium, patient # | control endometrium | disease state: control | patient: #",control,9
+"endometrioma, patient # | endometrioma | disease state: endometrioma | patient: #",case,6
+"endometrioma, patient m# | endometrioma | disease state: endometrioma | patient: m#",case,4

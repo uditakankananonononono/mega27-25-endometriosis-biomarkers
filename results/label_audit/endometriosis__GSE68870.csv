@@ -1,0 +1,5 @@
+text,label,count
+endometrium in the proliferative phase_a# | eutopic endometrium in the proliferative phase of adenomyosis | disease state: adenomyosis,DROP,2
+endometrium in the proliferative phase_c# | normal endometrium in the proliferative phase | disease state: control,control,2
+endometrium in the secretory phase_a# | eutopic endometrium in the secretory phase of adenomyosis | disease state: adenomyosis,DROP,2
+endometrium in the secretory phase_c# | normal endometrium in the secretory phase | disease state: control,control,2

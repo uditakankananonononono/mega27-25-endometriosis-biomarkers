@@ -1,0 +1,26 @@
+text,label,count
+endometrial biopsy-endometrial mesenchymal stem cell [etb#++early] | endometrium | disease: no endometriosis,control,4
+endometrial biopsy-endometrial mesenchymal stem cell [etb#++late] | endometrium | disease: no endometriosis,control,4
+endometrial biopsy-endometrial stromal fibroblast [etb#-+late] | endometrium | disease: no endometriosis,control,4
+endometrial biopsy-endometrial stromal fibroblast [etb#-+early] | endometrium | disease: no endometriosis,control,4
+endometrial biopsy-endometrial mesenchymal stem cell [la#++_early] | endometrium | disease: endometriosis,case,3
+endometrial biopsy-endometrial stromal fibroblast [la#-+_early] | endometrium | disease: endometriosis,case,3
+endometrial biopsy-endometrial mesenchymal stem cell [la#++_late] | endometrium | disease: endometriosis,case,3
+endometrial biopsy-endometrial stromal fibroblast [la#-+_late] | endometrium | disease: endometriosis,case,3
+endometrial biopsy-endometrial mesenchymal stem cell [etb# ++] | endometrium | disease: no endometriosis,control,2
+endometrial biopsy-endometrial mesenchymal stem cell [etb#++facs] | endometrium | disease: no endometriosis,control,2
+endometrial biopsy-endometrial stromal fibroblast [la#-+_facs] | endometrium | disease: endometriosis,case,2
+endometrial biopsy-endometrial stromal fibroblast [la#-+] | endometrium | disease: endometriosis,case,2
+endometrial biopsy-endometrial stromal fibroblast [etb#-+facs] | endometrium | disease: no endometriosis,control,2
+endometrial biopsy-endometrial mesenchymal stem cell [la#++_facs] | endometrium | disease: endometriosis,case,1
+endometrial biopsy-endometrial mesenchymal stem cell [la#++] | endometrium | disease: endometriosis,case,1
+endometrial biopsy-endometrial mesenchymal stem cell [fs#++] | endometrium | disease: endometriosis,case,1
+endometrial biopsy-endometrial mesenchymal stem cell [etb#++] | endometrium | disease: no endometriosis,control,1
+endometrial biopsy-endometrial mesenchymal stem cell [uc#++late] | endometrium | disease: no endometriosis,control,1
+endometrial biopsy-endometrial mesenchymal stem cell [st#++] | endometrium | disease: endometriosis,case,1
+endometrial biopsy-endometrial mesenchymal stem cell [uc# ++] | endometrium | disease: endometriosis,case,1
+endometrial biopsy-endometrial mesenchymal stem cell [uc#++early] | endometrium | disease: no endometriosis,control,1
+endometrial biopsy-endometrial stromal fibroblast [facs etb#-+] | endometrium | disease: no endometriosis,control,1
+endometrial biopsy-endometrial stromal fibroblast [fs#-+] | endometrium | disease: endometriosis,case,1
+endometrial biopsy-endometrial stromal fibroblast [uc#-+late] | endometrium | disease: no endometriosis,control,1
+endometrial biopsy-endometrial stromal fibroblast [uc-#-+] | endometrium | disease: no endometriosis,control,1

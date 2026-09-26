@@ -1,0 +1,7 @@
+text,label,count
+macrophages control # | cultured monocyte cell line (u-#) from atcc differentiated into macrophages,DROP,3
+macrophages+thesc-conditioned medium # | cultured monocyte cell line (u-#) from atcc differentiated into macrophages,DROP,3
+thesc endometrial cells control # | cultured human endometrial cell line (t-hesc) from atcc,DROP,3
+thesc endometrial cells estradiol+progesterone # | cultured human endometrial cell line (t-hesc) from atcc,DROP,3
+thesc endometrial cells estradiol+progesterone+macrophage-conditioned medium # | cultured human endometrial cell line (t-hesc) from atcc,DROP,3
+thesc endometrial cells vehicle+macrophage-conditioned medium # | cultured human endometrial cell line (t-hesc) from atcc,DROP,3

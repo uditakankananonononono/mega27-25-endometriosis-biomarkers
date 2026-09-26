@@ -1,0 +1,6 @@
+text,label,count
+# | endometriosis_moderate/severe,case,48
+# | non-endometriosis_uterine pelvic pathology | presence or absence of uterine/pelvic pathology: uterine pelvic pathology,control,37
+# | non-endometriosis_no uterine pelvic pathology | presence or absence of uterine/pelvic pathology: no uterine pelvic pathology,control,34
+# | endometriosis_minimal/mild,case,27
+# | endometriosis_severity not available,case,2

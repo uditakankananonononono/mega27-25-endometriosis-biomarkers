@@ -1,0 +1,445 @@
+{
+  "schema": "migration-plan-v1",
+  "disease": "endometriosis",
+  "proposed_repo": "mega27-25-endometriosis-biomarkers",
+  "source_shared_repository": "uditakankananonononono/mega27-25-biomarkers-underserved-diseases",
+  "source_commit": "d2284557dc5c515cef9ffc13b7df774508b8211e",
+  "tracked_files": [
+    {
+      "shared_repo_path": "projects/endometriosis/NOVELTY_PLAN.md",
+      "sha256": "950e5c145e3c797734d8793fbd549ef054999e3d9796b3d14ae8b64ac309bc89",
+      "bytes": 2368
+    },
+    {
+      "shared_repo_path": "projects/endometriosis/README.md",
+      "sha256": "877ef2354064e83535272a087555f31b7f424c3f3c70f047da11f7bbdb594657",
+      "bytes": 2134
+    },
+    {
+      "shared_repo_path": "projects/endometriosis/sources/GSE7846_description_conflict.csv",
+      "sha256": "5f3247d63a796f729c3b5b3bbf2a5401111827ff3fe2faf3e4ce6f53a9f22fd2",
+      "bytes": 3376
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE101176.csv",
+      "sha256": "837462cb66ea7d82b97efc8efc20303b6555401ca43e2fc666c5d9a8ca3aee89",
+      "bytes": 744
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE111974.csv",
+      "sha256": "013ba5a199f7ad95e267fb90816f69b5b7448daac468713f904a7b2388d2be4f",
+      "bytes": 211
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE11691.csv",
+      "sha256": "87da12c0ef4f2c5c1ba9bcd211882fa4311f41599e9b498572d514617b421e56",
+      "bytes": 171
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE11768-GPL81.csv",
+      "sha256": "8e2b5c5228828527188f449b13bc81e22b6a637731cd2966190af84ab32a389c",
+      "bytes": 320
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE11768-GPL8300.csv",
+      "sha256": "1be1a232cd87a826880a66618c2dc024b6ee35f13cf04d67e74691f5fd4aafae",
+      "bytes": 319
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE11769-GPL81.csv",
+      "sha256": "8e2b5c5228828527188f449b13bc81e22b6a637731cd2966190af84ab32a389c",
+      "bytes": 320
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE11769-GPL8300.csv",
+      "sha256": "1be1a232cd87a826880a66618c2dc024b6ee35f13cf04d67e74691f5fd4aafae",
+      "bytes": 319
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE11769-GPL96.csv",
+      "sha256": "87da12c0ef4f2c5c1ba9bcd211882fa4311f41599e9b498572d514617b421e56",
+      "bytes": 171
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE120103.csv",
+      "sha256": "2b22f6ccf7550453764aaffbb0ac05911e9cf7b7fbcd5a8f5ccca82f1bebdc1d",
+      "bytes": 933
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE129919.csv",
+      "sha256": "5cd31d812b2f195634ebe45b2ad1a0d7b08f6e8a319e0c0548d8b13aee9d00cf",
+      "bytes": 314
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE136412.csv",
+      "sha256": "181da44dbe91c70114526a6ea76f9c5969f6a988bcb68f7f8f380e102793c746",
+      "bytes": 504
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE138297.csv",
+      "sha256": "f21727c80bd9c156ed5994f993ec48d63a8baf6a5d56756ee76403231e0f5205",
+      "bytes": 659
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE139954.csv",
+      "sha256": "fc8cc11a0c2763e9ca2a7d1dc1997d0e14a26c2d9323f68fca161d8b49f98d97",
+      "bytes": 162
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE141549-GPL10558.csv",
+      "sha256": "9b4a629606b26fea0ba72ce8808050e13b295cc2ac16cfaa8fd16554ab9f3a58",
+      "bytes": 781
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE141549-GPL13376.csv",
+      "sha256": "e533a0ed51d1367630d5e09e0dc3f9e8e055de94cc582e8c1b90828e708b72ff",
+      "bytes": 969
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE145701.csv",
+      "sha256": "02fa445f8c90742994b402f907e3a4c2ecea88d71603e56af9d299d27d016984",
+      "bytes": 1572
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE14808.csv",
+      "sha256": "d78fdcd3cff42b9f541af3e468a6042f22c7957a6bcc2689331e7e97df1ed649",
+      "bytes": 925
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE149033.csv",
+      "sha256": "cab589e01d31629e171f87db0d5e5c32ffc06ab642ed5a24b29ebe4cc9b4b3aa",
+      "bytes": 278
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE165004.csv",
+      "sha256": "53d213da4062785c0148a8a1ce2afefff601297cd80fe9bfdaed4a2ad13e7d9d",
+      "bytes": 364
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE17504.csv",
+      "sha256": "5f47eb36441b2220135e97690e48bc763c655e65ff1abf4c66b0ab27d5d7303d",
+      "bytes": 837
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE19834.csv",
+      "sha256": "68cc0ae23f6ee3b214219dfcb6e76ca6150a63b0b8f4c673746a49359907395e",
+      "bytes": 734
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE23339.csv",
+      "sha256": "1423da024062fbe946bdec5d79f1bace14655923e1bddef8f53c1edd6f8792ac",
+      "bytes": 304
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE241134.csv",
+      "sha256": "7220f27784214226532a69e7d751957bed93a88224ee6c4633aba421fa06c542",
+      "bytes": 137
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE248593.csv",
+      "sha256": "1c3e6ba0d08b033d8eb4ad6be4e2857b36cc74deb2581fbee3051a0760e78c41",
+      "bytes": 216
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE25628.csv",
+      "sha256": "f496800dfeea07b4f6611f4ab5c3d643bad01b9d4edf18e6dafdf3ce449aa86d",
+      "bytes": 1795
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE262037.csv",
+      "sha256": "f285a9494330edda1da0a5481b1fbe7fabea22e8be3acefc404a58735237d0c1",
+      "bytes": 216
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE29175.csv",
+      "sha256": "a5ea6b0d727698df3c92e7342f6c8acee8b41b47a094a2f712cf154e69afdd51",
+      "bytes": 954
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE31515.csv",
+      "sha256": "6c9a0b9c5ff1225a3ca8807166a6879a85535333f2b1fb028fc46f131b094b23",
+      "bytes": 2178
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE31683.csv",
+      "sha256": "80803a5c8de728956cf2186bb16b8e1547fbb2d50a791c0b97cfd4c0650c7bc0",
+      "bytes": 395
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE35287.csv",
+      "sha256": "8690c24c0b374fb6614de23b7a070c1d312eb281ed57da1f2edaaa33fd3cefbe",
+      "bytes": 2150
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE37837.csv",
+      "sha256": "d446df469c6d36c07b142b536de821d1b15bdbfbf9d76da2f57fe294a691d45e",
+      "bytes": 483
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE40007.csv",
+      "sha256": "6e6cef18535c906a38096b1bbf39de1a3a36abe0aee787998c2a9a38f3d8a791",
+      "bytes": 393
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE44207.csv",
+      "sha256": "060bfa363a9e2b27fb4bc815f799118fea3348d0e3cf91edb6f5adbf71dbb8da",
+      "bytes": 289
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE47360.csv",
+      "sha256": "6d6e8c7cf6d6965e799ec42fff747a5230aa71d1f1d8bc59f3a4015ee4e57257",
+      "bytes": 370
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE4888.csv",
+      "sha256": "fe89a660c136059b045e3a26044a093954bf6e8e2b5170706ab91ca64102f5f6",
+      "bytes": 111
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE5108.csv",
+      "sha256": "5017d1af30c43a676cdfdeb59fade9db1f43ddf3fa0a4cea5f889286396a2197",
+      "bytes": 180
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE51981.csv",
+      "sha256": "80aa3d97c4c63b9caab4d4c5bc21dd3a26b4a97eeb1edd8b26de688706cd6328",
+      "bytes": 420
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE56854.csv",
+      "sha256": "d43a35d6ef3f95e1523361e738f7f2f263ab1aad34e1d69fd600850b48353764",
+      "bytes": 226
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE57832-GPL13534.csv",
+      "sha256": "e6e2f58eefc42bc745bf710c04c8b28aa50915d70506c165f529118b92068a8d",
+      "bytes": 150
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE57832-GPL17425.csv",
+      "sha256": "e72f6c30231bf2b172f069aa8168f7f7d8fccdd95fffcb8ef47bd1e9ba7a971c",
+      "bytes": 174
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE58178.csv",
+      "sha256": "1bd7970cd7deea84780198d7b671c717a071157f5e5d4b87cb441b035bbcbd63",
+      "bytes": 160
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE6364.csv",
+      "sha256": "2e1657bfde6c19e3047946b0c4729855f731e8cd507229e6be76ef01851a7682",
+      "bytes": 1071
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE68870.csv",
+      "sha256": "f6cb126d1e5bb61b1bdecaa0007ddf412eb18a65c57b798c0f6be0b9065d3622",
+      "bytes": 535
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE72428.csv",
+      "sha256": "63f7b8585c615aa6414fc52bea20d4d8dd8f72c7b2b9f8d6a25de9c29a389e3e",
+      "bytes": 237
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE7305.csv",
+      "sha256": "13fa146452eb5c58af184895fd93622b931e2c5d9128a736ee72770a091f49e2",
+      "bytes": 265
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE7307.csv",
+      "sha256": "286854061e610ed48a107610f12771e9f5656d000d997709d1fbe4123c3e2e7a",
+      "bytes": 22325
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE73622.csv",
+      "sha256": "ea98805a5a052899c2c778a61db245091263872608eea0f7abcb21109e4c8d81",
+      "bytes": 2825
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE75423.csv",
+      "sha256": "4699ac4d6e46fb959f6f332cce07fbf4a991b0087822f1a77b3b190316b881a8",
+      "bytes": 232
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE75425.csv",
+      "sha256": "4bcabfbb092e98704b01d44b27b918335fdca9df8350238b4565d81860ca9750",
+      "bytes": 250
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE75427-GPL13497.csv",
+      "sha256": "4699ac4d6e46fb959f6f332cce07fbf4a991b0087822f1a77b3b190316b881a8",
+      "bytes": 232
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE75427-GPL17077.csv",
+      "sha256": "4bcabfbb092e98704b01d44b27b918335fdca9df8350238b4565d81860ca9750",
+      "bytes": 250
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE75427-GPL18402.csv",
+      "sha256": "64443c920582f24bf5ca0a8cf9d3e47f131e4232a3e3f976768b61477153b6fa",
+      "bytes": 465
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE7846.csv",
+      "sha256": "57fc85f1c0bcb6138cf1051678f410e8988839c15141195fd13f83e81b68c621",
+      "bytes": 293
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE78851.csv",
+      "sha256": "77600a6e3665ec415e2308c3937b2d7d31442a3fa560962fe3aaa43f858d2b53",
+      "bytes": 263
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE86534.csv",
+      "sha256": "3642201360435c18c6db11d4a36902312e593d0e1b96f29c465f2b5e56a8434f",
+      "bytes": 311
+    },
+    {
+      "shared_repo_path": "results/label_audit/endometriosis__GSE94414.csv",
+      "sha256": "0a731eb903aab80d55368e005549be013ffbd2019c07985eef6f54377386ccff",
+      "bytes": 293
+    },
+    {
+      "shared_repo_path": "results/meta_discovery/endometriosis.csv.gz",
+      "sha256": "1befed3f089affed086a954ebd5b3a525f56a901e3af3ee757a3b94e195e7ed6",
+      "bytes": 547717
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_endometriosis.csv",
+      "sha256": "365a1cd67d7e70b90d1dff58c3db19cfca9d5ebb14a2049eed9dadfe057e0d41",
+      "bytes": 4801
+    },
+    {
+      "shared_repo_path": "results/prio/candidates_endometriosis.csv",
+      "sha256": "ed8d1544d89a38f629025baf5e8cb4bd18989350abd8cec15ac2b36440c43410",
+      "bytes": 2525
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE120103.csv.gz",
+      "sha256": "a3dff1b62d5f3f88381883e6bd24ef62881d1f179f21949ed37ff799de1f024f",
+      "bytes": 183731
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE120103.labels.csv",
+      "sha256": "31f191abba76a104ce0017f8e111365e4958057345eab7b6d74e689de58724cb",
+      "bytes": 640
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE23339.csv.gz",
+      "sha256": "1aca2760bf9ffb765e70ac136a47231e462c989761cc8d66cae117624aa80a63",
+      "bytes": 197043
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE23339.labels.csv",
+      "sha256": "beb99e5e68193dd472af0e5a13c71ae93144ba867bc5fed985bf909ffffa4439",
+      "bytes": 322
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE248593.csv.gz",
+      "sha256": "336f7a2cad7f29929ea40b8ffbdf2a6d4beb9d248582ce445558f2ebd6cb1836",
+      "bytes": 319917
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE248593.labels.csv",
+      "sha256": "599d6eb9436b1214711d9cb41d55430af79ed65453d0b226a40a742508710ca5",
+      "bytes": 220
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE25628.csv.gz",
+      "sha256": "a09f4fa041a4961e0fb2df8b4410e92c3709e73f0376a1caa3030b0c67307733",
+      "bytes": 130374
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE25628.labels.csv",
+      "sha256": "347a92bfea2225a97c3b1e23cf3fdcbf967d4f5365b43e188da9dc373e5c6332",
+      "bytes": 382
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE35287.csv.gz",
+      "sha256": "85ec04f4136262b9f05e840b7cc3477295172de37d5d87332990082c59d6590a",
+      "bytes": 204104
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE35287.labels.csv",
+      "sha256": "6582ef5e223ddb05af8e3961b3fadb37027df1b3643dded860b7787a2b76ce9a",
+      "bytes": 1282
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE47360.csv.gz",
+      "sha256": "85156aaf64b697dff17fc8cae285fd6bbc31ee6c324705d565d55518aa374a0b",
+      "bytes": 202862
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE47360.labels.csv",
+      "sha256": "47ba84876342cd4cf70f63456993cc61dda29ec38efd534acab6fa3c60827aa0",
+      "bytes": 163
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE51981.csv.gz",
+      "sha256": "a11b43c83f6b4b4c7460c20ceab04a193a884b2b0f12eb3cbacca8baf9ac7d2e",
+      "bytes": 211971
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE51981.labels.csv",
+      "sha256": "b3eaedd2496fa875eed9d900d5693ee28d5663e534a914a49c6104929fb5af6f",
+      "bytes": 2591
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE58178.csv.gz",
+      "sha256": "ce5df2115ee45394db96ddb6ddba50f54ee5055f5f690a2b496e9ffd54dbbf75",
+      "bytes": 199535
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE58178.labels.csv",
+      "sha256": "83867f43d831d19ff4d2a252b19f18e0d519796c2ede7a2e96d2618c9708a261",
+      "bytes": 220
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE6364.csv.gz",
+      "sha256": "76fc2ec5d0386fcf98b999bc64cd6fc928c3bfe6d3a511f3d6dca50720375aef",
+      "bytes": 209575
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE6364.labels.csv",
+      "sha256": "3c76016461b3323c99cff1a1031abd0e2664ed4591d8d9c5581a0d493c3609f5",
+      "bytes": 613
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE73622.csv.gz",
+      "sha256": "c97a20fb90122afdaa39aad13fd35b89a8d0a1262643b9b468694bb05a93629f",
+      "bytes": 202093
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE73622.labels.csv",
+      "sha256": "21aca140e2b817150c097336b77c80b61525cb15f739274c06d484a3b83a0707",
+      "bytes": 894
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE7846.csv.gz",
+      "sha256": "9616815d025ccc5525aeec1da3e0b8633096c5c523e15bdfae98295a7a12dd70",
+      "bytes": 220523
+    },
+    {
+      "shared_repo_path": "results/series/endometriosis__GSE7846.labels.csv",
+      "sha256": "93306ccd985aa7810994592b93d57ecfb7b54876a973ca4428b5a70e11c00edd",
+      "bytes": 175
+    }
+  ],
+  "explicitly_excluded": [
+    "untracked files",
+    "modified tracked files not represented by source commit",
+    "other-disease results",
+    "shared manuscript until disease-specific content can be verified"
+  ],
+  "accession_manifest": {
+    "source": "results/dataset_manifest.csv",
+    "matching_rule": "disease string in role field, not proof of independent datasets",
+    "matching_record_count": 101,
+    "GSE_count": 14,
+    "GSM_count": 86,
+    "other_count": 1
+  },
+  "deployment_status": "planning_only_no_repos_verified",
+  "method": "copy and verify hashes from source_commit Git tree, not dirty working tree; preserve project-relative paths; pin shared core; then run project-specific tests and read back remote"
+}

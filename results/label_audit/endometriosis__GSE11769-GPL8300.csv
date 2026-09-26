@@ -1,0 +1,4 @@
+text,label,count
+xenograft  # day human array replicate # | xenograft  # day human array replicate #,DROP,6
+human endometrium time # human array replicate # | human endometrium time # human array replicate #,DROP,2
+mouse peritoneum time # human array replicate # | mouse peritoneumtime # human array replicate #,DROP,1

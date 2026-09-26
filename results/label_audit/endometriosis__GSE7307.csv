@@ -1,0 +1,171 @@
+text,label,count
+endometrium # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,23
+myometrium # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,22
+myometrium # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: uterine fibroid,DROP,20
+endometrium/ovary # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: endometriosis,DROP,18
+paravertebral muscle # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: neuromuscular pain,DROP,11
+myometrium # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: adenomyosis,DROP,10
+corpus callosum # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,9
+cerebral cortex # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,9
+mda mb# #h + # nm cxcl# # treated | male/female; normal/diseased | disease/normal or treatment [c]: treated | disease type: normal,control,9
+frontal lobe # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,9
+midbrain # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,9
+medulla # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,9
+prostate # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: prostate cancer,DROP,9
+mda mb# #h # control | male/female; normal/diseased | disease/normal or treatment [c]: control | disease type: normal,control,9
+putamen # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,9
+occipital lobe # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+hypothalamus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+parietal lobe # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+nodose nucleus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+hippocampus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+cerebellum # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+spinal cord # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+ventral tegmental area # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+trigeminal ganglia # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+thalamus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+temporal lobe # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+accumbens # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+amygdala # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+dorsal root ganglia # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,8
+substantia nigra # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,7
+vestibular nuclei superior # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,7
+prostate # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,7
+prostate # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: bph,DROP,7
+subthalamic nucleus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,7
+pituitary gland # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,6
+synovial membrane # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,6
+accumbens p# normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,6
+deltoid muscle # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,6
+breast # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: breast cancer,DROP,5
+prostate gland # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,5
+testes # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,5
+putamen p# disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,5
+urethra # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,5
+synovial membrane # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: rheumatoid arthritis,DROP,5
+substantia nigra pars compacta # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,5
+penis # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,5
+nipple cross section # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+ovary # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+substantia nigra reticulata # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+spleen # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+salivary gland # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+putamen p# normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+tongue superior with papillae # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+tongue main corpus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+vulva # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+vagina # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+thyroid gland # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+stomach fundus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+liver # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+lymph nodes # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+kidney cortex # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+kidney medulla # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+pharyngeal mucosa # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+heart atrium # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+oral mucosa # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+stomach pyloric # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+aorta # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+accumbens p# disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,4
+adrenal gland cortex # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+adipose tissue omental # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+esophagus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+caudate p# normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+cervix # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,4
+bronchus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+tonsil # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+trachea # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+substantia nigra reticulata # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,3
+stomach cardiac # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+skeletal muscle # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+saphenous vein # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+mda mb# + cxcr# # control | male/female; normal/diseased | disease/normal or treatment [c]: control | disease type: normal,control,3
+hepg# + sdf #h # treated | male/female; normal/diseased | disease/normal or treatment [c]: treated | disease type: normal,control,3
+mda mb# + cxcr# + sdf # treated | male/female; normal/diseased | disease/normal or treatment [c]: treated | disease type: normal,control,3
+mammary gland # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+substantia nigra pars compacta # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,3
+skin # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: melanoma,DROP,3
+skin # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+heart ventricle # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+gloubus pallidum internal # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,3
+gloubus pallidum external # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,3
+gloubus pallidum internal # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+hepg# #h # control | male/female; normal/diseased | disease/normal or treatment [c]: control | disease type: normal,control,3
+bone marrow # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+coronary artery # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+colon cecum # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+adipose tissue # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+adipose tissue subcutaneous # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+joint tissue synovium # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+lung # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,3
+mda mb# treated # treated | male/female; normal/diseased | disease/normal or treatment [c]: treated | disease type: normal,control,3
+mda mb# # control | male/female; normal/diseased | disease/normal or treatment [c]: control | disease type: normal,control,3
+b cells anticd#+il# #h # activated | male/female; normal/diseased | disease/normal or treatment [c]: activated | disease type: normal,control,2
+breast # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+cd#+ # resting | male/female; normal/diseased | disease/normal or treatment [c]: resting | disease type: normal,control,2
+fallopian tube ab# normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+b cells resting #h # resting | male/female; normal/diseased | disease/normal or treatment [c]: resting | disease type: normal,control,2
+small intestine bd# normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+small intestine jejunum # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+gloubus pallidum external # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+huvec cell line # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,DROP,2
+monocytes lps+ifng #h # activated | male/female; normal/diseased | disease/normal or treatment [c]: activated | disease type: normal,control,2
+monocytes resting #h # resting | male/female; normal/diseased | disease/normal or treatment [c]: resting | disease type: normal,control,2
+t cells resting #h # resting | male/female; normal/diseased | disease/normal or treatment [c]: resting | disease type: normal,control,2
+thalamus subthalamic nucleus # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+thymus gland # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+skin # normal # | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+thalamus lateral nuclei # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,2
+caudate p# disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,2
+cd#+ anticd#+anticd# # activated | male/female; normal/diseased | disease/normal or treatment [c]: activated | disease type: normal,control,2
+thalamus lateral nuclei # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,2
+t cells anticd# #h # activated | male/female; normal/diseased | disease/normal or treatment [c]: activated | disease type: normal,control,2
+bone marrow sg normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+frontal cortex ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+frontal cortex # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+fetal liver bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+fetal brain bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+fallopian tube # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+colon bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+cerebellar vermis ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+cerebellum bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+bone marrow bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+cerebellar hemisphere ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+heart bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+gloubus pallidum internal # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: normal,DROP,1
+myometrium # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: endometriosis,DROP,1
+globus pallidus ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+gloubus pallidum external # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: normal,DROP,1
+kidney bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+prostate gland bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+prostate # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: prostate cancer - adjacent,DROP,1
+prefrontal cortex ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+pons ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+pericardium ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+penis sg normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+peritneum # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+placenta bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+pbmc pma+ionomycin # activated | male/female; normal/diseased | disease/normal or treatment [c]: activated | disease type: normal,control,1
+ovary # normal # | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+pancreas sg# normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+pbmc media # resting | male/female; normal/diseased | disease/normal or treatment [c]: resting | disease type: normal,control,1
+skeletal muscle bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+retrocervical infiltrate # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+salivary gland bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+skin sg normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+small intestinejejunum # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+spinal cord bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+spleen bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+small intestine duodenum sg normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+stomach bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+skeletal muscle superior quadracep # normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+skin bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+testes bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+thalamus subthalamic nucleus # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: parkinson's disease,DROP,1
+thalamus subthalamic nucleus # disease | male/female; normal/diseased | disease/normal or treatment [c]: disease | disease type: normal,DROP,1
+tongue bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+tongue sg normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+trachea bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+thyroid gland bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+uterus bd normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
+vena cava ab normal | male/female; normal/diseased | disease/normal or treatment [c]: normal | disease type: normal,control,1
