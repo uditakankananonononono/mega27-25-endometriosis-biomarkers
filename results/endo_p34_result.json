@@ -1,0 +1,33 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE313775",
+  "sha256": "e4d5dcad9c1757135bc16ced261ee95bea198f21b068152a7f2554c4db26e4e8",
+  "n_people": 22,
+  "n_case": 10,
+  "n_control": 12,
+  "n_mapped_genes": 41983,
+  "n_primary_effect_genes": 14286,
+  "n_fixed_measured": 11,
+  "missing_fixed": [
+    "CD79A",
+    "DCDC2B",
+    "DUX4L24",
+    "IGH",
+    "LILRA4",
+    "LOC100507477",
+    "LOC100507630",
+    "RAX",
+    "SSC4D"
+  ],
+  "n_positive": 8,
+  "n_negative": 3,
+  "n_sign_match": 7,
+  "null_mean": 6.2178,
+  "empirical_p": 0.43155684431556846,
+  "individual_same_direction_bonferroni_hits": 0,
+  "registered_descriptive_support": false,
+  "secondary_sign_matches": {
+    "Th1/17": 6,
+    "Th17": 8
+  },
+  "ambiguous_ensembl_ids": 3
+}

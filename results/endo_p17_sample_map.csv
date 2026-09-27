@@ -1,0 +1,21 @@
+gsm,token,count_column,title,patient,group
+GSM6552364,NC5P,Count_ NC5P,"control eutopic endometrium, patient 13",13,NC
+GSM6552365,NC6P,Count_ NC6P,"control eutopic endometrium, patient 14",14,NC
+GSM6552366,NC7P,Count_ NC7P,"control eutopic endometrium, patient 15",15,NC
+GSM6552367,NC8P,Count_ NC8P,"control eutopic endometrium, patient 16",16,NC
+GSM6552368,NC9P,Count_ NC9P,"control eutopic endometrium, patient 17",17,NC
+GSM6552369,NC10S,Count_ NC10S,"control eutopic endometrium, patient 18",18,NC
+GSM6552370,EU1S,Count_ EU1S,"eutopic endometrium, patient 1",1,EU
+GSM6552371,EU2S,Count_ EU2S,"eutopic endometrium, patient 2",2,EU
+GSM6552372,EU3S,Count_ EU3S,"eutopic endometrium, patient 3",3,EU
+GSM6552373,EU4P,Count_ EU4P,"eutopic endometrium, patient 4",4,EU
+GSM6552374,EU5P,Count_ EU5P,"eutopic endometrium, patient 5",5,EU
+GSM6552375,EU6P,Count_ EU6P,"eutopic endometrium, patient 6",6,EU
+GSM6552376,EU8P,Count_ EU8P,"eutopic endometrium, patient 8",8,EU
+GSM6552377,EC1S,Count_ EC1S,"ecopic endometrium, patient 1",1,EC
+GSM6552378,EC6P,Count_ EC6P,"ecopic endometrium, patient 6",6,EC
+GSM6552379,EC7P,Count_ EC7P,"ecopic endometrium, patient 7",7,EC
+GSM6552380,EC8P,Count_ EC8P,"ecopic endometrium, patient 8",8,EC
+GSM6552381,EC9P,Count_ EC9P,"ecopic endometrium, patient 9",9,EC
+GSM6552382,EC11P,Count_ EC11P,"ecopic endometrium, patient 11",11,EC
+GSM6552383,EC12P,Count_ EC12P,"ecopic endometrium, patient 12",12,EC

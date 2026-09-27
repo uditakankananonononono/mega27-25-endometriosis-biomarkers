@@ -1,0 +1,8 @@
+gsm,column,title,group,phase,diagnosis,sha256,url
+GSM4650379,1,CE-MP biological rep 1,Control,Mid- proliferative,Healthy,bcb124c5c364bed471d5ce36c70c94ff5e9ed186f8bf2f2c90c9b3f4df36e376,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650379&targ=self&form=text&view=full
+GSM4650380,11,CE-MP biological rep 2,Control,Mid- proliferative,Healthy,ed484ce17e8faa606279c2dfd924ffdfb37fd3349e21f2dbdcb3292bb8c53c41,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650380&targ=self&form=text&view=full
+GSM4650381,12,CE-MP biological rep 3,Control,Mid- proliferative,Healthy,e0bd5a41f3bd9e0c3496f56008b55c54fa4a60974901d49c36f5146163be7a8b,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650381&targ=self&form=text&view=full
+GSM4650382,4,EE-MP biological rep 1,Endometriosis,Mid- proliferative,Peritoneal endometriosis,984457488eac23efa862a86f6ebd0ad3c456473db680b80cdb0057e16189fb0b,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650382&targ=self&form=text&view=full
+GSM4650383,8,EE-MP biological rep 2,Endometriosis,Mid- proliferative,Ovarian and peritoneal endometriosis,76a339e84b02a66e8f7f65d6c96b7b8e51eaa7d02acf4c0d8a52969fd3da44a3,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650383&targ=self&form=text&view=full
+GSM4650384,18,EE-MP biological rep 3,Endometriosis,Mid- proliferative,Ovarian endometriosis,5c643ae57cbebb945a28588f2f72dd0953faf528759bb0a4e61cd7eb7be5e9b4,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650384&targ=self&form=text&view=full
+GSM4650385,16,EE-MP biological rep 4,Endometriosis,Mid- proliferative,Peritoneal endometriosis,6030cdd9b2ebbd947aadbdca50844c961475bce398b7a66631187bdce9ef9690,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4650385&targ=self&form=text&view=full

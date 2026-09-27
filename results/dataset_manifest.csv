@@ -1,0 +1,102 @@
+accession,source,role
+GSE120103,GEO series,endometriosis:validation
+GSE212787,GEO series,"endometriosis:P17 processed cohort, 13 unique primary GSMs nested"
+GSE23339,GEO series,endometriosis:discovery
+GSE248593,GEO series,endometriosis:validation
+GSE25628,GEO series,endometriosis:discovery
+GSE35287,GEO series,endometriosis:discovery
+GSE47360,GEO series,endometriosis:discovery
+GSE51981,GEO series,endometriosis:discovery
+GSE58178,GEO series,endometriosis:validation
+GSE6364,GEO series,endometriosis:discovery
+GSE73622,GEO series,endometriosis:validation
+GSE7846,GEO series,endometriosis:discovery
+GSM6552364,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552365,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552366,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552367,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552368,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552369,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552370,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552371,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552372,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552373,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552374,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552375,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+GSM6552376,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
+MONDO_0005133,Open Targets disease associations,known genes endometriosis
+GSE313775,GEO series and raw three-cell-subset count matrix,"endometriosis:P34 circulating Th1 primary with paired Th1/17,Th17 context; one study"
+GSM9375202,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375203,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375204,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375205,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375206,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375207,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375208,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375209,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375210,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375211,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375212,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375213,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375214,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375215,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375216,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375217,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375218,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375219,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375220,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375221,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375222,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375223,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375224,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375225,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375226,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375227,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375228,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375229,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375230,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375231,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375232,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375233,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375234,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375235,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375236,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375237,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375238,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375239,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375240,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375241,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375242,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375243,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375244,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375245,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375246,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375247,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375248,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375249,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375250,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375251,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375252,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375253,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375254,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375255,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375256,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375257,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375258,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375259,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375260,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375261,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375262,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375263,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375264,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375265,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375266,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSM9375267,GEO individually fetched GSM full-text record,endometriosis:P34 one of three cell subsets per subject; nested in GSE313775; not independent cohort
+GSE153739,GEO separately fetched series accession,endometriosis:P40 historical mid-proliferative eutopic FPKM transport; seven libraries
+GSM4650379,GEO individually fetched GSM full-text record,"endometriosis:P40 Control column 1; nested in GSE153739, not independent study"
+GSM4650380,GEO individually fetched GSM full-text record,"endometriosis:P40 Control column 11; nested in GSE153739, not independent study"
+GSM4650381,GEO individually fetched GSM full-text record,"endometriosis:P40 Control column 12; nested in GSE153739, not independent study"
+GSM4650382,GEO individually fetched GSM full-text record,"endometriosis:P40 Endometriosis column 4; nested in GSE153739, not independent study"
+GSM4650383,GEO individually fetched GSM full-text record,"endometriosis:P40 Endometriosis column 8; nested in GSE153739, not independent study"
+GSM4650384,GEO individually fetched GSM full-text record,"endometriosis:P40 Endometriosis column 18; nested in GSE153739, not independent study"
+GSM4650385,GEO individually fetched GSM full-text record,"endometriosis:P40 Endometriosis column 16; nested in GSE153739, not independent study"

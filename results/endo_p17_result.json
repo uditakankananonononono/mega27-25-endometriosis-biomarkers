@@ -1,0 +1,31 @@
+{
+  "gse": "GSE212787",
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212787",
+  "source_counts": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE212nnn/GSE212787/suppl/GSE212787_Allgene_info.txt.gz",
+  "source_sha256": "46b0404d797b49247e593e96e5d36c6362af97fced257e0a7c975b04f761b0bf",
+  "n_GSM_total": 20,
+  "n_unique_primary_donors": 13,
+  "n_case": 7,
+  "n_control": 6,
+  "n_excluded_ec": 7,
+  "genes_measured": 10,
+  "genes_missing": [
+    "DUX4L24",
+    "FUT7",
+    "GLP1R",
+    "IGH",
+    "JSRP1",
+    "LILRA4",
+    "LINC01118",
+    "LOC100507477",
+    "LOC100507630",
+    "RAX"
+  ],
+  "observed_agreements": 6,
+  "null_mean": 5.7613,
+  "empirical_p": 0.5811418858114189,
+  "nominal_bonferroni_same_direction": [],
+  "passes_registered_panel": false,
+  "confound": "Menstrual phase not established per donor from public GEO labels; S/P suffix not assumed to be cycle phase.",
+  "interpretation": "Single late-selected published cohort; any apparent success not a novel or clinical biomarker, SOTA comparison, or phase-adjusted inference."
+}

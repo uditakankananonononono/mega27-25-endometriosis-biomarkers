@@ -1,0 +1,174 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153739",
+  "sha256": {
+    "GSE153739_GT_SO_5238_Transcript_Expression_Matrix.txt.gz": "627634eb5df06434cec03b12f177b7c90e4ea54438eb468b0fc50c0df20a9f4d",
+    "gencode.v48.annotation.gtf.gz": "37a298c2b57e41988cfe12667134106523c69c24a1807347679d19e88aa1f4a9"
+  },
+  "n_case": 4,
+  "n_control": 3,
+  "n_transcripts": 145630,
+  "n_mapped_transcripts": 132319,
+  "ambiguous_transcripts": 0,
+  "ambiguous_genes": 3,
+  "n_measurable_genes": 15330,
+  "n_fixed_measured": 6,
+  "n_sign_match": 1,
+  "null_mean": 2.8823,
+  "empirical_p": 0.9775022497750225,
+  "registered_descriptive_support": false,
+  "genes": [
+    {
+      "gene": "LOC100507630",
+      "discovery_g": 0.97636,
+      "discovery_k": 4,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "JSRP1",
+      "discovery_g": 0.80821,
+      "discovery_k": 6,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "IGH",
+      "discovery_g": 0.94463,
+      "discovery_k": 4,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "AMN",
+      "discovery_g": 0.75945,
+      "discovery_k": 7,
+      "status": "measured",
+      "target_g": -0.5892973176517197,
+      "welch_p": 0.357278359215866,
+      "match": false
+    },
+    {
+      "gene": "NPEPL1",
+      "discovery_g": 0.87064,
+      "discovery_k": 5,
+      "status": "measured",
+      "target_g": -0.47883659737249645,
+      "welch_p": 0.5853282609959357,
+      "match": false
+    },
+    {
+      "gene": "LOC100507477",
+      "discovery_g": 0.88217,
+      "discovery_k": 4,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "FUT7",
+      "discovery_g": 0.71066,
+      "discovery_k": 7,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "IER2",
+      "discovery_g": 0.69564,
+      "discovery_k": 7,
+      "status": "measured",
+      "target_g": -0.06171930884923574,
+      "welch_p": 0.9273496722391911,
+      "match": false
+    },
+    {
+      "gene": "LINC01118",
+      "discovery_g": 0.84433,
+      "discovery_k": 4,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "PTER",
+      "discovery_g": -0.68935,
+      "discovery_k": 7,
+      "status": "measured",
+      "target_g": 0.9215792956833239,
+      "welch_p": 0.21121114084335052,
+      "match": false
+    },
+    {
+      "gene": "DUX4L24",
+      "discovery_g": 0.81966,
+      "discovery_k": 4,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "RAX",
+      "discovery_g": 0.67709,
+      "discovery_k": 7,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "DCDC2B",
+      "discovery_g": 0.81486,
+      "discovery_k": 4,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "GLP1R",
+      "discovery_g": 0.66287,
+      "discovery_k": 7,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "TMTC4",
+      "discovery_g": -0.67668,
+      "discovery_k": 6,
+      "status": "measured",
+      "target_g": -0.15622120282502389,
+      "welch_p": 0.7994674648276536,
+      "match": true
+    },
+    {
+      "gene": "ERCC6L2",
+      "discovery_g": -0.68069,
+      "discovery_k": 6,
+      "status": "measured",
+      "target_g": 0.018357530534515967,
+      "welch_p": 0.9786511176122823,
+      "match": false
+    },
+    {
+      "gene": "CD79A",
+      "discovery_g": 0.64462,
+      "discovery_k": 7,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "LILRA4",
+      "discovery_g": 0.64234,
+      "discovery_k": 7,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "SSC4D",
+      "discovery_g": 0.6556,
+      "discovery_k": 6,
+      "status": "unmapped or expression filtered",
+      "match": null
+    },
+    {
+      "gene": "SPTBN4",
+      "discovery_g": 0.62833,
+      "discovery_k": 7,
+      "status": "unmapped or expression filtered",
+      "match": null
+    }
+  ],
+  "limitation": "Historical tiny 4/3 cohort, gene-summed transcript FPKM approximation, already published DDR differences; descriptive transport only."
+}
