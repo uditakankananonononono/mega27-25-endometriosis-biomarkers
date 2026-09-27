@@ -11,6 +11,16 @@ GSE58178,GEO series,endometriosis:validation
 GSE6364,GEO series,endometriosis:discovery
 GSE73622,GEO series,endometriosis:validation
 GSE7846,GEO series,endometriosis:discovery
+GSM190395,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used case endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190396,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used case endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190397,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used case endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190398,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used case endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190399,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used case endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190400,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used control endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190401,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used control endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190402,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used control endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190403,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used control endothelial array; nested in GSE7846; case anatomical site unresolved
+GSM190404,GEO individually fetched full GSM and expression record,endometriosis:GSE7846 historically used control endothelial array; nested in GSE7846; case anatomical site unresolved
 GSM6552364,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
 GSM6552365,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
 GSM6552366,GEO GSM processed RNA count record,"endometriosis:P17 used eutopic donor count matrix, 13 GSMs nested in GSE212787; panel negative"
