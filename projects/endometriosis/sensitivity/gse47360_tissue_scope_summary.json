@@ -1,0 +1,13 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE47360",
+  "source_records": 9,
+  "controls_eutopic": 3,
+  "cases_eutopic": 3,
+  "cases_ectopic": 3,
+  "probes_shared": 33297,
+  "finite_both": 33292,
+  "sign_flips": 6838,
+  "sign_flips_abs_g_at_least_0_2_both": 1965,
+  "pearson_g": 0.7682828817953063,
+  "caveat": "Post-exposure probe-level sensitivity, not an independent discovery, corrected downstream meta, or validated disease-specific biomarker. Three eutopic cases and three eutopic controls only; tissue and diagnosis may remain confounded by culture and donor factors."
+}
